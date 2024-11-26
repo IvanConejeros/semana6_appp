@@ -20,18 +20,18 @@ ion-card {
 
   ion-card ion-input {
     --background: transparent; /* Fondo transparente */
-    color: rgb(78, 27, 71); /* Color de texto en naranja oscuro */
+    color: rgb(255, 255, 255); /* Color de texto en naranja oscuro */
   }
   
   ion-card input {
     background-color: transparent; /* Fondo transparente para navegadores que no usan variables CSS */
-    color: rgb(78, 27, 71); /* Color de texto en naranja oscuro */
+    color: rgb(255, 255, 255); /* Color de texto en naranja oscuro */
   }
 
 
   ion-card ion-label {
     --background: transparent; /* Fondo transparente */
-    color: rgb(78, 27, 71); /* Color de texto en naranja oscuro */
+    color: rgb(255, 255, 255); /* Color de texto en naranja oscuro */
   }
   
   ion-card label {

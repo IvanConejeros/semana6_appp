@@ -18,15 +18,9 @@ export class GaleriaPage  {
     '/assets/img/imagen6.jpg',
     '/assets/img/imagen7.jpg',
     '/assets/img/imagen8.jpg',
-    '/assets/img/imagen9.jpg',
+    '/assets/img/imagen9.jpg',  
     '/assets/img/imagen10.jpg',
-    '/assets/img/imagen11.jpg',
-    '/assets/img/imagen12.jpg',
-    '/assets/img/imagen12.jpg',
-    '/assets/img/imagen14.jpg',
-    '/assets/img/imagen15.jpg',
-    '/assets/img/imagen16.jpg',
-    '/assets/img/imagen17.jpg',
+ 
     // Agrega más imágenes aquí
   ];
 

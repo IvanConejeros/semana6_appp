@@ -9,18 +9,18 @@ export class ConsejosPage {
   // Propiedad definida como 'consejos' en minúsculas
   consejos = [
     {
-      nombre: 'Limpieza diaria',
-      descripcion: 'Usa un limpiador suave adecuado para tu tipo de piel (seca, grasa, mixta o sensible). Limpia tu rostro por la mañana y por la noche para eliminar suciedad, impurezas y exceso de grasa..',
+      nombre: 'Lavado',
+      descripcion: 'Revisa las instrucciones de cuidado en la etiqueta para saber cómo lavar, secar y planchar correctamente cada prenda.',
       imagen: '/assets/img/consejos/consejo1.jpg',
     },
     {
-      nombre: 'Primero la crema hidratante y luego el bloqueador',
-      descripcion: 'La crema hidratante se debe aplicar primero para asegurar que tu piel esté bien hidratada y nutrida. El bloqueador solar debe aplicarse después de la crema hidratante, ya que actúa como una barrera protectora contra los daños del sol',
+      nombre: 'Secado',
+      descripcion: 'Evita el secado directo al sol: Los rayos UV pueden desvanecer los colores y debilitar las telas.',
       imagen: '/assets/img/consejos/consejo2.jpg',
     },
     {
-      nombre: '¿Cómo debo maquillarme?',
-      descripcion: '1. Preparación de la piel 2. Base 3. Polvo 4. Contorno y rubor 5.Ojos 6. Cejas 7. Labios 8. Fijador',
+      nombre: 'Productos naturales',
+      descripcion: '1. Vinagre blanco: Úsalo como suavizante natural. 2. Bicarbonato de sodio: Ayuda a eliminar olores y manchas. 3. Bolsas de lavanda',
       imagen: '/assets/img/consejos/consejo3.jpg',
     },
     // Agregar más consejos aquí

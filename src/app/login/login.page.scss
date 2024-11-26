@@ -1,6 +1,6 @@
 ion-content {
     --background: none; /* Elimina cualquier fondo global */
-    background-image: url('../../assets/img/COSMETICOS/FONDO\ USAR.jpg');  
+    background-image: url('../../assets/img/ROPA/fondo.jpg');  
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -30,7 +30,7 @@ ion-content {
 
   ion-card ion-input {
     --background: transparent; /* Fondo transparente */
-    color: rgb(0, 0, 0); /* Color de texto en naranja oscuro */
+    color: #ffff; /* Color de texto en naranja oscuro */
   }
   
   ion-card input {
@@ -56,12 +56,12 @@ ion-content {
   }
   
   ion-card ion-button.login-button {
-    --background: rgb(194, 0, 113); /* Fondo en naranja oscuro */
+    --background: #0000; /* Fondo en naranja oscuro */
     color: white; /* Texto en blanco para buen contraste */
   }
 
   .register-button {
-    color: rgb(194, 0, 113);
+    color: rgb(194, 0, 17);
     text-transform: uppercase;
     margin-top: 10px;
   }

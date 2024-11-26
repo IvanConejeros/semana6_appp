@@ -13,40 +13,32 @@ export class ProductosPage implements OnInit {
   
   productos = [ 
     {
-      nombre: 'Polvos facial MAC',
-      precio: 22,
-      imagen: '/assets/img/COSMETICOS/POLVOS.jpg'
+      nombre: 'Plera Básica Blanca',
+      precio: 10,
+      imagen: '/assets/img/ROPA/ropa6.jpg'
     },
     {
-      nombre: 'Set cosmeticos MAC',
-      precio: 30,
-      imagen: '/assets/img/COSMETICOS/SET.jpg'
+      nombre: 'Polera rayada',
+      precio: 15,
+      imagen: '/assets/img/ROPA/ropa4.jpg'
     },
     {
-      nombre: 'Labial rojo MAC',
+      nombre: 'Polera colores',
       precio: 25,
-      imagen: '/assets/img/COSMETICOS/LABIAL.jpg'
+      imagen: '/assets/img/ROPA/ropa7.jpg'
     },
     {
-      nombre: 'Base facial MAC',
-      precio: 30,
-      imagen: '/assets/img/COSMETICOS/BASE 2.jpg'
+      nombre: 'Polera negra básica',
+      precio: 10,
+      imagen: '/assets/img/ROPA/ropa8.jpg'
     },
+    
     {
-      nombre: 'Paleta sombras MAC ',
-      precio: 40,
-      imagen: ' /assets/img/COSMETICOS/PALETA.jpg'
-    },
-    {
-      nombre: 'Máscara de pestañas Loreal',
+      nombre: 'Polera varias',
       precio: 15.0,
-      imagen: '/assets/img/COSMETICOS/MASCARA PESTAÑA.png'
+      imagen: '/assets/img/ROPA/ropa9.jpg'
     },
-    {
-      nombre: 'Agua micelar Garnier',
-      precio: 10.0,
-      imagen: '/assets/img/COSMETICOS/agua micelar.jpg'
-    }
+   
   
   ];
 
